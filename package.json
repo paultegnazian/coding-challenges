@@ -5,11 +5,11 @@
   "scripts": {
     "test": "jest"
   },
-  "repository": "https://github.com/xiaoyunyang/coding-challenges.git",
-  "author": "Xiaoyun Yang <yangx232@gmail.com>",
+  "repository": "https://github.com/paultegnazian/coding-challenges.git",
+  "author": "Paul Tegnazian <paultegnazian@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xiaoyunyang/coding-challenges/issues"
+    "url": "https://github.com/paultegnazian/coding-challenges/issues"
   },
   "homepage": "https://github.com/xiaoyunyang/coding-challenges#readme",
   "dependencies": {
