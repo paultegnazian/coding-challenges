@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/paultegnazian/coding-challenges/issues"
   },
-  "homepage": "https://github.com/xiaoyunyang/coding-challenges#readme",
+  "homepage": "https://github.com/paultegnazian/coding-challenges",
   "dependencies": {
     "ramda": "^0.26.1"
   },
