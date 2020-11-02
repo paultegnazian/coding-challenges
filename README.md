@@ -24,15 +24,21 @@ Nodes
 
 Data Structures have been provided by Xiaoyun Yang, see her [work](https://github.com/xiaoyunyang/coding-challenges#coding-challenges-collection).
 
-## LeetCode
+# Leetcode
 
-TOC
-<!-- 
+<!--
 ### - Problem Name
 
 - [problem](link to problem)
 - [solution](link to solution)
 - [repl](link to repl.it solution)
 - Comments; Indication of program time to run (Oh of N)
-
  -->
+
+## Leetcode November 2020 Challenge
+
+### 1290-convert-binary-number-in-a-linked-list-to-integer
+
+- [problem](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer)
+- [solution](/leetcode/1290-convert-binary-number-in-a-linked-list-to-integer.js)
+- Run speed is O(N)
