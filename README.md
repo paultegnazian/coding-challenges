@@ -42,3 +42,10 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 - [problem](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer)
 - [solution](/leetcode/1290-convert-binary-number-in-a-linked-list-to-integer.js)
 - Run speed is O(N)
+
+### 1446-consecutive-characters
+
+- [problem](https://leetcode.com/problems/consecutive-characters/)
+- [solution](/leetcode/1446-consecutive-characters.js)
+- Run speed is O(N).
+  Multiple solutions as I learn to use less memory.
