@@ -49,3 +49,17 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 - [solution](/leetcode/1446-consecutive-characters.js)
 - Run speed is O(N).
   Multiple solutions as I learn to use less memory.
+
+### 310-minimum-height-trees
+
+<!-- go back and finish -->
+
+- [problem](https://leetcode.com/problems/minimum-height-trees/)
+- [solution](/leetcode/310-minimum-height-trees.js)
+- Run speed is
+
+### 1217-minimum-cost-to-move-chips-to-the-same-position
+
+- [problem](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
+- [solution](/leetcode/1217-minimum-cost-to-move-chips-to-the-same-position.js)
+- Run speed is O(N).
