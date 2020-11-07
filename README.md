@@ -63,3 +63,9 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 - [problem](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
 - [solution](/leetcode/1217-minimum-cost-to-move-chips-to-the-same-position.js)
 - Run speed is O(N).
+
+### 1283-find-the-smallest-divisor-given-a-threshold
+
+- [problem](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
+- [solution](/leetcode/1283-find-the-smallest-divisor-given-a-threshold.js)
+- Run speed is O(N). Medium.
