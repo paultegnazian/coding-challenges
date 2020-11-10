@@ -81,3 +81,9 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 - [problem](https://leetcode.com/problems/binary-tree-tilt/)
 - [solution](/leetcode/563-binary-tree-tilt.js)
 - Run speed is O(log N).
+
+### 1026-maximum-difference-between-node-and-ancestor
+
+- [problem](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
+- [solution](/leetcode/1026-maximum-difference-between-node-and-ancestor.js)
+- Run speed is O(log N). Medium.
