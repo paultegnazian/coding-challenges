@@ -87,3 +87,9 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 - [problem](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
 - [solution](/leetcode/1026-maximum-difference-between-node-and-ancestor.js)
 - Run speed is O(log N). Medium.
+
+### 832-flipping-an-image
+
+- [problem](https://leetcode.com/problems/flipping-an-image/)
+- [solution](/leetcode/832-flipping-an-image.js)
+- Run speed is O(N).
