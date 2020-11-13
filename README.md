@@ -93,3 +93,9 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 - [problem](https://leetcode.com/problems/flipping-an-image/)
 - [solution](/leetcode/832-flipping-an-image.js)
 - Run speed is O(N).
+
+### 47-permutations-ii
+
+- [problem](https://leetcode.com/problems/permutations-ii/)
+- [solution](/leetcode/47-permutations-ii.js)
+- Run speed is O(N!).
