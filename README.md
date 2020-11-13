@@ -99,3 +99,9 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 - [problem](https://leetcode.com/problems/permutations-ii/)
 - [solution](/leetcode/47-permutations-ii.js)
 - Run speed is O(N!).
+
+### 593-valid-square
+
+- [problem](https://leetcode.com/problems/valid-square/)
+- [solution](/leetcode/593-valid-square.js)
+- Run speed is O(N).
