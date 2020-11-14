@@ -110,4 +110,5 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 
 - [problem](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 - [solution](/leetcode/116-populating-next-right-pointers-in-each-node.js)
+- [repl](https://repl.it/@paultegnazian/HeartyGrippingBrain#index.js)
 - Run speed is O(N).
