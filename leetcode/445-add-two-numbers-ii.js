@@ -16,7 +16,7 @@ var addTwoNumbers = function(l1, l2) {
     let node2 = l2
     let stack1 = []
     let stack2 = []
-// build stacks
+    // build stacks
     while (node1 != null) {
         stack1.push(node1.val)
         node1 = node1.next
@@ -25,7 +25,7 @@ var addTwoNumbers = function(l1, l2) {
         stack2.push(node2.val)
         node2 = node2.next
     }
-// build new singly linked list, looping and creating new heads
+    // build new singly linked list, looping and creating new heads
     let result = null
     let value1, value2, newValue, sumVal
     let carry = 0

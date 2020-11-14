@@ -10,7 +10,7 @@ var smallestDivisor = function(nums, threshold) {
     while (L < R) {
         numSum = 0 // reset sum
         currDivisor = Math.floor((L + R)/2)
-        for (num of nums) {
+        for (let num of nums) {
             numSum += Math.ceil(num / currDivisor)
         }
         if (numSum <= threshold) {
