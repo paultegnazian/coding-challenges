@@ -105,3 +105,9 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 - [problem](https://leetcode.com/problems/valid-square/)
 - [solution](/leetcode/593-valid-square.js)
 - Run speed is O(N).
+
+### 116-populating-next-right-pointers-in-each-node
+
+- [problem](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+- [solution](/leetcode/116-populating-next-right-pointers-in-each-node.js)
+- Run speed is O(N).
