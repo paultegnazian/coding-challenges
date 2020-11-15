@@ -118,3 +118,9 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 - [problem](https://leetcode.com/problems/range-sum-of-bst/)
 - [solution](/leetcode/938-range-sum-of-bst.js)
 - Run speed is O(log N).
+
+### 520-detect-capital
+
+- [problem](https://leetcode.com/problems/detect-capital/
+- [solution](/leetcode/520-detect-capital.js)
+- Run speed is O(N).
