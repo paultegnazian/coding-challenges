@@ -112,3 +112,9 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 - [solution](/leetcode/116-populating-next-right-pointers-in-each-node.js)
 - [repl](https://repl.it/@paultegnazian/HeartyGrippingBrain#index.js)
 - Run speed is O(N).
+
+### 938-range-sum-of-bst
+
+- [problem](https://leetcode.com/problems/range-sum-of-bst/)
+- [solution](/leetcode/938-range-sum-of-bst.js)
+- Run speed is O(log N).
