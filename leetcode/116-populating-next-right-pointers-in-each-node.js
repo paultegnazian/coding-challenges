@@ -19,16 +19,16 @@ var connect = function(root) {
         let numToShift = Math.pow(2,level)// same as 1<<level
         let prevNode
         while (numToShift > 0) {
-        let node = queue.shift()      
-        if (node.left) {
-            queue.push(node.left)
-        }
-        if (node.right) {
-            queue.push(node.right)
-        }
-        if (prevNode) prevNode.next = node
-        prevNode = node
-        numToShift--
+            let node = queue.shift()      
+            if (node.left) {
+                queue.push(node.left)
+            }
+            if (node.right) {
+                queue.push(node.right)
+            }
+            if (prevNode) prevNode.next = node
+            prevNode = node
+            numToShift--
         }
         level++
     }
