@@ -121,6 +121,6 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 
 ### 520-detect-capital
 
-- [problem](https://leetcode.com/problems/detect-capital/
+- [problem](https://leetcode.com/problems/detect-capital/)
 - [solution](/leetcode/520-detect-capital.js)
 - Run speed is O(N).
