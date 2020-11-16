@@ -35,7 +35,7 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 - Comments; Indication of program time to run (Oh of N)
  -->
 
-## Leetcode November 2020 Challenge
+## Leetcode in 2020-11
 
 ### 1290-convert-binary-number-in-a-linked-list-to-integer
 
@@ -136,4 +136,10 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 
 - [problem](https://leetcode.com/problems/valid-palindrome/)
 - [solution](/leetcode/125-valid-palindrome.js)
+- Run speed is O(N).
+
+### 342-power-of-four
+
+- [problem](https://leetcode.com/problems/power-of-four/)
+- [solution](/leetcode/342-power-of-four.js)
 - Run speed is O(N).
