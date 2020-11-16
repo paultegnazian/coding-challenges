@@ -129,4 +129,5 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 
 - [problem](https://leetcode.com/problems/design-hashset/)
 - [solution](/leetcode/705-design-hashset.js)
+- [repl](https://repl.it/@paultegnazian/leetcode-705#index.js)
 - Run speed is O(N).
