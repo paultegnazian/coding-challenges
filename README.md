@@ -124,3 +124,9 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 - [problem](https://leetcode.com/problems/detect-capital/)
 - [solution](/leetcode/520-detect-capital.js)
 - Run speed is O(N).
+
+### 705-design-hashset
+
+- [problem](https://leetcode.com/problems/design-hashset/)
+- [solution](/leetcode/705-design-hashset.js)
+- Run speed is O(N).
