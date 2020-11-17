@@ -143,3 +143,9 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 - [problem](https://leetcode.com/problems/power-of-four/)
 - [solution](/leetcode/342-power-of-four.js)
 - Run speed is O(N).
+
+### 845-longest-mountain-in-array
+
+- [problem](https://leetcode.com/problems/longest-mountain-in-array/)
+- [solution](/leetcode/845-longest-mountain-in-array.js)
+- Run speed is O(N).
