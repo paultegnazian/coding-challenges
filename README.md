@@ -149,3 +149,9 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 - [problem](https://leetcode.com/problems/longest-mountain-in-array/)
 - [solution](/leetcode/845-longest-mountain-in-array.js)
 - Run speed is O(N).
+
+### 858-mirror-reflection
+
+- [problem](https://leetcode.com/problems/mirror-reflection/)
+- [solution](/leetcode/858-mirror-reflection.js)
+- Run speed is O(N).
