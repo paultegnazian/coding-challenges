@@ -173,3 +173,9 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 - [problem](https://leetcode.com/problems/decode-string/)
 - [solution](/leetcode/394-decode-string.js)
 - Run speed is O(N).
+
+### 1306-jump-game-iii
+
+- [problem](https://leetcode.com/problems/jump-game-iii/)
+- [solution](/leetcode/1306-jump-game-iii.js)
+- Run speed is O(N).
