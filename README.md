@@ -161,3 +161,9 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 - [problem](https://leetcode.com/problems/sliding-window-maximum/)
 - [solution](/leetcode/239-sliding-window-maximum.js)
 - Run speed is O(N).
+
+### 56-merge-intervals
+
+- [problem](https://leetcode.com/problems/merge-intervals/)
+- [solution](/leetcode/56-merge-intervals.js)
+- Run speed is O(N).
