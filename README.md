@@ -167,3 +167,9 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 - [problem](https://leetcode.com/problems/merge-intervals/)
 - [solution](/leetcode/56-merge-intervals.js)
 - Run speed is O(N).
+
+### 394-decode-string
+
+- [problem](https://leetcode.com/problems/decode-string/)
+- [solution](/leetcode/394-decode-string.js)
+- Run speed is O(N).
