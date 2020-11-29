@@ -185,3 +185,9 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 - [problem](https://leetcode.com/problems/plus-one/)
 - [solution](/leetcode/66-plus-one.js)
 - Run speed is O(N). KISS....
+
+### 441-arranging-coins
+
+- [problem](https://leetcode.com/problems/arranging-coins/)
+- [solution](/leetcode/441-arranging-coins.js)
+- Run speed is O(N).
