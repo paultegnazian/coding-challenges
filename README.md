@@ -197,3 +197,9 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 - [problem](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 - [solution](/leetcode/107-binary-tree-level-order-traversal-ii.js)
 - Run speed is O(N).
+
+### 20-valid-parentheses
+
+- [problem](https://leetcode.com/problems/valid-parentheses/)
+- [solution](/leetcode/20-valid-parentheses.js)
+- Run speed is O(N).
