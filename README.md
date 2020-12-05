@@ -203,3 +203,9 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 - [problem](https://leetcode.com/problems/valid-parentheses/)
 - [solution](/leetcode/20-valid-parentheses.js)
 - Run speed is O(N).
+
+### 605-can-place-flowers
+
+- [problem](https://leetcode.com/problems/can-place-flowers/)
+- [solution](/leetcode/605-can-place-flowers.js)
+- Run speed is O(N).
