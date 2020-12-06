@@ -222,3 +222,10 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 - [solution](/leetcode/1492-the-kth-factor-of-n.js)
 - [repl](https://repl.it/@FocusedNoise/1492-the-kth-factor-of-n#index.js)
 - Run speed is O(N).
+
+### 117-populating-next-right-pointers-in-each-node-ii
+
+- [problem](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
+- [solution](/leetcode/117-populating-next-right-pointers-in-each-node-ii.js)
+- [repl](https://repl.it/@FocusedNoise/117-populating-next-right-pointers-in-each-node-ii#index.js.js)
+- Run speed is O(N).
