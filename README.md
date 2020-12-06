@@ -215,3 +215,10 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 - [problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [solution](/leetcode/104-maximum-depth-of-binary-tree.js)
 - Run speed is O(N).
+
+### 1492-the-kth-factor-of-n
+
+- [problem](https://leetcode.com/problems/the-kth-factor-of-n/)
+- [solution](/leetcode/1492-the-kth-factor-of-n.js)
+- [repl](https://repl.it/@FocusedNoise/1492-the-kth-factor-of-n#index.js)
+- Run speed is O(N).
