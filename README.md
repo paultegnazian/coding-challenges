@@ -229,3 +229,10 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 - [solution](/leetcode/117-populating-next-right-pointers-in-each-node-ii.js)
 - [repl](https://repl.it/@FocusedNoise/117-populating-next-right-pointers-in-each-node-ii#index.js.js)
 - Run speed is O(N).
+
+### 1-two-sum
+
+- [problem](https://leetcode.com/problems/two-sum/)
+- [solution](/leetcode/1-two-sum.js)
+- Run speed is O(N^2) for Brute Force approach.
+- Run speed is O(N) for Hash Table approach.
