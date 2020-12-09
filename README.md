@@ -236,3 +236,9 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 - [solution](/leetcode/1-two-sum.js)
 - Run speed is O(N^2) for Brute Force approach.
 - Run speed is O(N) for Hash Table approach.
+
+### 1010-pairs-of-songs-with-total-durations-divisible-by-60
+
+- [problem](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
+- [solution](/leetcode/1010-pairs-of-songs-with-total-durations-divisible-by-60.js)
+- Run speed is O(N).
