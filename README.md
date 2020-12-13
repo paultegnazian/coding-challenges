@@ -248,3 +248,9 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 - [problem](https://leetcode.com/problems/spiral-matrix-ii/)
 - [solution](/leetcode/59-spiral-matrix-ii.js)
 - Run speed is O(N).
+
+### 941-valid-mountain-array
+
+- [problem](https://leetcode.com/problems/valid-mountain-array/)
+- [solution](/leetcode/941-valid-mountain-array.js)
+- Run speed is O(N).
