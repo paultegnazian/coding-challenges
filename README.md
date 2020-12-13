@@ -254,3 +254,10 @@ Data Structures have been provided by Xiaoyun Yang, see her [work](https://githu
 - [problem](https://leetcode.com/problems/valid-mountain-array/)
 - [solution](/leetcode/941-valid-mountain-array.js)
 - Run speed is O(N).
+
+### 312-burst-balloons
+
+- [problem](https://leetcode.com/problems/burst-balloons/)
+- [solution](/leetcode/312-burst-balloons.js)
+- [repl](https://repl.it/@FocusedNoise/312-burst-balloons#index.js)
+- Run speed is O(N).
