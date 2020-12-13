@@ -10,7 +10,7 @@ var maxCoins = function(givenNums) {
 
   const memo = Array(n)
   for(let i = 0; i < nums.length; i++) {
-    memo[i] = [n]
+    memo[i] = []
   }
   return burst(memo, nums, 0, n - 1)
 };
